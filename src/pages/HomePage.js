@@ -1,10 +1,13 @@
 import React, { useContext } from "react";
 import { useSearchParams } from "react-router-dom";
 import CoursesContainer from "../components/HomePage/CoursesContainer";
-import Categories from "../components/HomePage/Categories";
+
+import Categories from "../components/Home/Categories";
+import Footer from "../components/Footer";
+import "../css/styles/HomePage/HeadLine.css";
+import "../css/styles/HomePage/BillBoard.css";
 
 import NavBar from "../components/NavBar";
-import Footer from "../components/Footer";
 import { dataContext } from "../App";
 import clock from "../images/clock.jpg";
 
