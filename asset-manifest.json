@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bld_proj2/static/css/main.ab172acd.css",
+    "main.js": "/bld_proj2/static/js/main.69e68aeb.js",
+    "static/media/clock.jpg": "/bld_proj2/static/media/clock.163af8cf8a54d0cb67aa.jpg",
+    "index.html": "/bld_proj2/index.html",
+    "main.ab172acd.css.map": "/bld_proj2/static/css/main.ab172acd.css.map",
+    "main.69e68aeb.js.map": "/bld_proj2/static/js/main.69e68aeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab172acd.css",
+    "static/js/main.69e68aeb.js"
+  ]
+}
